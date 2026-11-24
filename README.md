@@ -9,7 +9,7 @@ Groupe 2 : Kelly Abendjock · Magaret Ngwanya · Axel Remillat · Lucas San Frut
 
 ## ▶️ Tester l'application
 
-- **En ligne :** lien Streamlit Cloud *(à ajouter après le déploiement)*
+- **En ligne :** https://moodtune-nlp-npznqurj7ftfhhs4a4bodf.streamlit.app/ (si l’appli est en veille, cliquer sur « Yes, get this app back up! » et attendre ~1 min)
 - **En local (Windows) :** double-cliquer sur `LANCER_DEMO.bat`. Le premier lancement prend environ 5 min (installation et téléchargement du modèle). Les lancements suivants prennent environ 30 s et fonctionnent hors ligne.
 - **En local (manuel) :**
   ```bash
